@@ -1,0 +1,32 @@
+{
+  "name": "vscode-theme-classic-essential-colors-blue",
+  "displayName": "Classic Essential Colors (Blue)",
+  "description": "Make coding mood like in the 90s",
+  "author": {
+    "name": "balsa",
+    "email": "dev@balsa.to"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makesomesparks/vscode-theme-classic-essential-colors-blue"
+  },
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.24.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Classic Essential Colors (Blue)",
+        "uiTheme": "vs",
+        "path": "./themes/vscode-theme-classic-essential-colors-blue.json"
+      }
+    ]
+  },
+  "publisher": "balsa",
+  "license": "NO LICENSE",
+  "icon": "assets/images/icon-128.png"
+}
