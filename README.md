@@ -13,6 +13,12 @@ Designed using limited colors. (Maybe) Helps focus on coding.
 
 - Taegyun Ko <dev@balsa.to>
 
+## Updated
+
+  - 2023-02-12
+
+    Bugfix: Unseeing colors modified to see
+
 ## License
 
 NO LICENSE
