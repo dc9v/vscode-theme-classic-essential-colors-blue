@@ -17,7 +17,11 @@ Designed using limited colors. (Maybe) Helps focus on coding.
 
   - 2023-02-12
 
-    Bugfix: Unseeing colors modified to see
+    Bugfix: Unseeing syntax color updated.
+
+  - 2023-02-27
+
+    Bugfix: Unseeing panel icon updated.
 
 ## License
 
